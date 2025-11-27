@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>CipherQuest — Guardians of the Chain</title>
+
+  <!-- 🕹️ Load Phaser -->
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3.80.0/dist/phaser.min.js"></script>
+
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #000;
+      overflow: hidden;
+      height: 100%;
+      width: 100%;
+      font-family: monospace;
+    }
+    #game-container {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="game-container"></div>
+
+  <button onclick="connectOneWallet()">[ Connect to OneWallet ]</button>
+  <p id="wallet-status"></p>
+
+  <!-- 🚀 Main Entry (AFTER OneChain SDK is loaded) -->
+  <script type="module" src="./src/main.js"></script>
+
+  <script>
+    async function connectOneWallet() {
+      const provider =
+        window.onechainWallet ||
+        window.onechain ||
+        window.__onechainInjected__;
+
+      if (!provider) {
+        alert("❌ OneWallet not detected. Please open or install the extension.");
+        return null;
+      }
+
+      try {
+        console.log("🔌 Connecting to OneWallet...");
+        await provider.connect();
+
+        const accounts = await provider.getAccounts();
+        if (!accounts || accounts.length === 0) {
+          throw new Error("No account returned.");
+        }
+
+        const wallet = accounts[0];
+        console.log("✅ Connected wallet:", wallet);
+        window.connectedWallet = wallet;
+
+        const status = document.getElementById("wallet-status");
+        if (status) status.innerText = `Wallet Connected: ${wallet}`;
+
+        return wallet;
+      } catch (err) {
+        console.error("❌ OneWallet connection error:", err);
+        alert("Wallet connection failed: " + err);
+        return null;
+      }
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+[package]
+name = "TrophyNFT"
+version = "0.0.1"
+edition = "2024.beta"
+
+[dependencies]
+One = { git = "https://github.com/one-chain-labs/onechain.git", subdir = "crates/sui-framework/packages/one-framework", rev = "a41ee41c3ce6" }
+
+[addresses]
+trophy_addr = "0x0"
+[addresses]
+cipher_addr = "0x0"

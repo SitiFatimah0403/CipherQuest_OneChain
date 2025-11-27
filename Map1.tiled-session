@@ -1,0 +1,271 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map 1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "0x72_DungeonTilesetII_v1.7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "AllTools.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Barrier.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Blue Knight run Sprite-sheet 16x17.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "BlueCoin Sheet.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "CrimsonSlaad.tsx": {
+            "scaleInDock": 1
+        },
+        "CrushingCyclops.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "DeathSlime.tsx": {
+            "scaleInDock": 1
+        },
+        "Full Set.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "FullSet.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "HumongousEttin.tsx": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 626.5,
+                "y": 300.5
+            }
+        },
+        "Map 1.tmx#0x72_DungeonTilesetII_v1.7": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Barrier": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Blue Knight run Sprite-sheet 16x17": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#BlueCoin Sheet": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Full Set": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#FullSet": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Maple Tree": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Potions": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Random Icons": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Road copiar": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Robot1": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Robot2": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Robot3": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Stairs": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Torch L": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Torch R": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Walls": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#Waterfall": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#atlas_floor-16x16": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#atlas_walls_high-16x32": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#decorative": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "Map 1.tmx#mainlevbuild 32": {
+            "scaleInDock": 1
+        },
+        "Maple Tree.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Potions.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Random Icons.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Road copiar.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Robot1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Robot2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Robot3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stairs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Torch L.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Torch R.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Walls.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Water.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Waterfall.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "atlas_floor-16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "atlas_walls_high-16x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decorative.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "floor.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "mainlevbuild 32.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mainlevbuild 32pixel.tsx": {
+            "scaleInDock": 0.75
+        },
+        "mainlevbuild.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/USER/Documents/CipherQuest/CipherQuest/assets",
+    "last.externalTilesetPath": "C:/Users/USER/Documents/CipherQuest",
+    "last.imagePath": "C:/Users/USER/Documents/CipherQuest/CipherQuest/assets",
+    "map.height": 45,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 80,
+    "openFiles": [
+        "Map 1.tmx",
+        "Walls.tsx",
+        "floor.tsx",
+        "Barrier.tsx",
+        "Water.tsx",
+        "Waterfall.tsx",
+        "Torch L.tsx",
+        "Torch R.tsx",
+        "decorative.tsx",
+        "Stairs.tsx",
+        "Potions.tsx",
+        "Random Icons.tsx",
+        "Blue Knight run Sprite-sheet 16x17.tsx",
+        "BlueCoin Sheet.tsx",
+        "atlas_floor-16x16.tsx",
+        "0x72_DungeonTilesetII_v1.7.tsx",
+        "atlas_walls_high-16x32.tsx",
+        "Maple Tree.tsx",
+        "Road copiar.tsx",
+        "Full Set.tsx"
+    ],
+    "project": "Map1.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Full Set.tsx",
+        "Road copiar.tsx",
+        "Maple Tree.tsx",
+        "atlas_walls_high-16x32.tsx",
+        "0x72_DungeonTilesetII_v1.7.tsx",
+        "atlas_floor-16x16.tsx",
+        "BlueCoin Sheet.tsx",
+        "Blue Knight run Sprite-sheet 16x17.tsx",
+        "Random Icons.tsx",
+        "Potions.tsx",
+        "Stairs.tsx",
+        "decorative.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

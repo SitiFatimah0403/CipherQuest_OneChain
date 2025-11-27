@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mysten/enoki": "^0.12.11",
+    "@onelabs/sui": "^1.26.2",
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  }
+}

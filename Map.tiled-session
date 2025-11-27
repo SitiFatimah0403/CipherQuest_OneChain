@@ -1,0 +1,219 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "New Map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "0x72_DungeonTilesetII_v1.7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "AllTools.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Barrier.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Basic Buttons 3 Fv.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Blue Knight run Sprite-sheet 16x17.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "BlueCoin Sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Full Set.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Hearts Blue.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1721.3333333333333,
+                "y": 334
+            }
+        },
+        "Maple Tree.tsx": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 912.6666666666666,
+                "y": 509.33333333333326
+            }
+        },
+        "New Map.tmx#0x72_DungeonTilesetII_v1.7": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#AllTools": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Barrier": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Basic Buttons 3 Fv": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#BlueCoin Sheet": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Full Set": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Hearts Blue": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Maple Tree": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Mouse cursors": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Potions": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Random Icons": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Road copiar": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Stairs": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Torch L": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Torch R": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Walls": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "New Map.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#Waterfall": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#YellowCoin Sheet": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#atlas_floor-16x16": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#atlas_walls_high-16x32": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#atlas_walls_low-16x16": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#decorative": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#floor": {
+            "scaleInDock": 1
+        },
+        "New Map.tmx#mainlevbuild": {
+            "scaleInDock": 1
+        },
+        "Potions.tsx": {
+            "scaleInDock": 1
+        },
+        "Random Icons.tsx": {
+            "scaleInDock": 1
+        },
+        "Road copiar.tsx": {
+            "scaleInDock": 1
+        },
+        "Torch L.tsx": {
+            "scaleInDock": 1
+        },
+        "Torch R.tsx": {
+            "scaleInDock": 1
+        },
+        "Walls.tsx": {
+            "scaleInDock": 1
+        },
+        "Water.tsx": {
+            "scaleInDock": 1
+        },
+        "Waterfall.tsx": {
+            "scaleInDock": 1
+        },
+        "atlas_floor-16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "atlas_walls_high-16x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "atlas_walls_low-16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decorative.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/USER/Documents/CipherQuest/CipherQuest/assets",
+    "last.externalTilesetPath": "C:/Users/USER/Documents/CipherQuest",
+    "last.imagePath": "C:/Users/USER/Documents/CipherQuest/CipherQuest/assets",
+    "map.height": 45,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 80,
+    "openFiles": [
+        "New Map.tmx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "New Map.tmx",
+        "Hearts Blue.tsx",
+        "Full Set.tsx",
+        "floor.tsx",
+        "decorative.tsx",
+        "BlueCoin Sheet.tsx",
+        "Basic Buttons 3 Fv.tsx",
+        "Barrier.tsx",
+        "atlas_walls_low-16x16.tsx",
+        "atlas_walls_high-16x32.tsx",
+        "atlas_floor-16x16.tsx",
+        "0x72_DungeonTilesetII_v1.7.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

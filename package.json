@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@onelabs/sui": "^1.26.2"
+  }
+}
