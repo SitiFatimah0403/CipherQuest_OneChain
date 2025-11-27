@@ -222,5 +222,3 @@ CipherQuest demonstrates:
 - A fully working blockchain-enhanced game loop
 Built for the OneChain Web3 Hackathon 2025.
 
-
-<<<<<<< HEAD
