@@ -42,6 +42,7 @@ CipherQuest is a top-down dungeon crawler where players:
 - OneChain CLI
 - Tiled (Map Editor)
 - JSON-based local database
+- Pinata IPFS
 
 ---
 
