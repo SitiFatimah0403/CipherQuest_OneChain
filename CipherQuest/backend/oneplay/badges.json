@@ -1,5 +1,12 @@
 {
   "users": {
-    
+    "oneid": {
+      "wallet": "0xd9180ad5ef49bba1218f1183f78d49bc13724692ef3ced89fe4af0c07e275698",
+      "badges": [
+        "badge_100_coins",
+        "badge_puzzle_solver"
+      ],
+      "updatedAt": 1764295523634
+    }
   }
 }

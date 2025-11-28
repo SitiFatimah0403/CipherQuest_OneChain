@@ -34,6 +34,17 @@ CipherQuest is a top-down dungeon crawler where players:
 
 ---
 
+## 🛠 Tech Stack 
+- Phaser.js
+- JavaScript ES6 Modules
+- Node.js + Express
+- OneWallet Integration
+- OneChain CLI
+- Tiled (Map Editor)
+- JSON-based local database
+
+---
+
 ## 🔗 OneChain Integration
 
 ### 🟢 1. OneWallet
