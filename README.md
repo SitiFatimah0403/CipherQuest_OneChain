@@ -233,3 +233,8 @@ CipherQuest demonstrates:
 - A fully working blockchain-enhanced game loop
 Built for the OneChain Web3 Hackathon 2025.
 
+---
+
+### 11. Demo Video
+[![CipherQuest Demo](https://img.youtube.com/vi/mjv94_hz3sI/0.jpg)](https://youtu.be/mjv94_hz3sI)
+
